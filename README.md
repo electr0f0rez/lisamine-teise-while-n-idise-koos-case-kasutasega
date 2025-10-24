@@ -1,4 +1,6 @@
 # lisamine-teise-while-n-idise-koos-case-kasutasega
+
+```csharp
 Console.WriteLine("Tere tulemust mobifix parandusautomaati! Kuidas saan aidata");
 Console.WriteLine("0 - headaega\n1 - tahan telefoni parandada");
 Console.WriteLine("palun tee valik, kirjutades vastav arv:");
