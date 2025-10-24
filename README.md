@@ -1,0 +1,1 @@
+# lisamine-teise-while-n-idise-koos-case-kasutasega
